@@ -1,15 +1,13 @@
 # Manga Splitter
 
 Splits manga pages into 3 overlapping portions, making them easier to read in landscape mode in 6 inch
-devices (Kindle Paperwhite 4 and Kobo Clara Colour).
-
-* Also trims whitespace margins.
+devices (Kindle Paperwhite 4 and Kobo Clara Colour). Also trims whitespace margins.
 
 ## Usage
 
 Basic usage:
 ```
-main.py -i manga.cbz
+python main.py -i manga.cbz
 ```
 
 Will produce a file called `manga_processed.cbz` as a result.
