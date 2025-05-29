@@ -3,6 +3,8 @@
 Splits manga pages into 3 overlapping portions, making them easier to read in landscape mode in 6 inch
 devices (Kindle Paperwhite 4 and Kobo Clara Colour).
 
+* Also trims whitespace margins.
+
 ## Usage
 
 Basic usage:
